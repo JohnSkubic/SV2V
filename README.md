@@ -13,10 +13,10 @@ Some open source SystemVerilog projects would benefit from a large amount of use
   - SystemVerilog
   - tests
 
-SV2V: Directory containing the package for SV2V.  All code for running SV2V will be here.
-filters: Contains all the filters for converting SystemVerilog to Verilog.  Each construct in SystemVerilog that is not in Verilog will have its own filter file.
-verification: Contains all the files needed to test SV2V.  
-tests: Contains python code that tests if a specific SystemVerilog file was converted successfully.
+**SV2V**: Directory containing the package for SV2V.  All code for running SV2V will be here.
+**filters**: Contains all the filters for converting SystemVerilog to Verilog.  Each construct in SystemVerilog that is not in Verilog will have its own filter file.
+**verification**: Contains all the files needed to test SV2V.  
+**tests**: Contains python code that tests if a specific SystemVerilog file was converted successfully.
 
 ## SystemVerilog Improvements and Implementation Status for SVD (SystemVerilog for Design)
 
