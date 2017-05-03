@@ -43,6 +43,9 @@ Not started features will not be highlighted.
   - always_comb
   - always_ff
   - always_latch
+- Arrays
+  - Associative Array
+  - Dynamic Array
 
 
 ### Medium Importance
